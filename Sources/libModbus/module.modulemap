@@ -1,0 +1,5 @@
+module ClibModbus [system]{
+	umbrella header "../../Headers/ClibModbus.h"
+    link "modbus"
+    export *
+}

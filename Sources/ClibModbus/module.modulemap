@@ -1,5 +1,0 @@
-module ClibModbus {
-    header "../../Headers/ClibModbus.h"
-    link "modbus"
-    export *
-}
